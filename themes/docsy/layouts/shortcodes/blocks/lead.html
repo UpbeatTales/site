@@ -2,12 +2,19 @@
 {{ $col_id := .Get "color" | default .Ordinal }}
 {{ $height := .Get "height" | default "auto"  }}
 {{ $partial := .Get "partial" | default ""  }}
+{{ $icon := .Get "icon" | default ""  }}
+{{ $title := .Get "title" | default ""  }}
 {{/* Height can be one of: auto, min, med, max, full. */}}
 <a id="td-block-{{ .Ordinal }}" class="td-offset-anchor"></a>
 <section class="row td-box td-box--{{ $col_id }} position-relative td-box--gradient td-box--height-{{ $height }}">
 	<div class="container text-center td-arrow-down">
 		<div class="h4 mb-0">
-			{{ partial $partial . }}
+			{{ if $icon }}
+				<div class="h1"><i class="{{ if not (or (hasPrefix $icon "fas ") (hasPrefix $icon "fab ")) }}fas {{ end }}{{ $icon }}"></i> {{ if $title }}{{ $title }}{{ end }}</div>
+			{{ else if $title }}
+				<div class="h1">{{ $title }}</div>
+			{{ end }}
+			{{ if $partial }}{{ partial $partial . }}{{ end }}
 			{{ if eq .Page.File.Ext "md" }}
 				{{ .Inner | markdownify }}
 			{{ else }}
