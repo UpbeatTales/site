@@ -146,12 +146,32 @@ no = 'Sorry to hear that. Please <a href="https://github.com/UpbeatTales/site/is
 enable = false
 
 [params.links]
-# Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-[[params.links.developer]]
-name = "GitHub"
-url = "https://github.com/UpbeatTales/site"
-icon = "fab fa-github"
-desc = "Development takes place here!"
+[[params.links.apple]]
+name = "Apple Podcasts"
+url = "https://podcasts.apple.com/us/podcast/upbeat-tales/id1693733174"
+icon = "fab fa-apple"
+desc = "Listen on Apple Podcasts!"
+[[params.links.audible]]
+name = "Audible"
+url = "https://www.audible.com/pd/ITEM_NAME-Podcast/B0C8RX19RM"
+icon = "fab fa-audible"
+desc = "Listen on Audible!"
+[[params.links.amazon]]
+name = "Amazon Music"
+url = "https://music.amazon.com/podcasts/4ded59d4-cdd8-40d8-b8e5-378374b8cd1a/upbeat-tales"
+icon = "fab fa-amazon"
+desc = "Listen on Spotify!"
+[[params.links.google]]
+name = "Google Podcasts"
+url = "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lM2VjN2MxYy9wb2RjYXN0L3Jzcw"
+icon = "fab fa-google"
+desc = "Listen on Google Podcasts!"
+[[params.links.spotify]]
+name = "Spotify"
+url = "https://open.spotify.com/show/4TJtCRn0R2lWRKHo3Fd0WB?si=f883fb44b5f849f4"
+icon = "fab fa-spotify"
+desc = "Listen on Spotify!"
+
 
 [params.markmap]
 enable = true
