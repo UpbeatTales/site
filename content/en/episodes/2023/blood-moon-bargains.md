@@ -1,8 +1,8 @@
 
 ---
 title: "Blood Moon Bargains"
-linkTitle: "#1 - Blood Moon Bargains"
-date: 2022-12-05
+linkTitle: "#3 - Blood Moon Bargains"
+date: 2023-6-22
 description: > 
   This jovial and comedic tale follows a salesman with divine deals.  
 ---

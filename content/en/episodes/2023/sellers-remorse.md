@@ -2,7 +2,7 @@
 ---
 title: "Seller's Remorse"
 linkTitle: "#1 - Seller's Remorse"
-date: 2022-12-05
+date: 2023-06-20
 description: > 
   This jovial and comedic tale follows a salesman with divine deals.  
 ---

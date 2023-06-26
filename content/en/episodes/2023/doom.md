@@ -2,7 +2,7 @@
 ---
 title: "DOOM"
 linkTitle: "#2 - DOOM"
-date: 2022-12-05
+date: 2023-06-21
 description: > 
   This lightning story takes a peek behind the scenes in a gathering of the rulers of darkness.
 ---
