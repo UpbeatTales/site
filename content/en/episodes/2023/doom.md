@@ -1,4 +1,3 @@
-
 ---
 title: "DOOM"
 linkTitle: "#2 - DOOM"
@@ -30,4 +29,4 @@ Eddie Knight has been a technical leader in organizations ranging from financial
 His most recent work is _Nix_, a cybercrime technothriller about a family man tech executive who's life gets turned upside down when his AI and Robotics company draws international attention.
 
 - [⁠https://eddieknight.dev⁠](⁠https://eddieknight.dev⁠)
-- [⁠https://twitter.com/the_eddieknight⁠](⁠https://twitter.com/the_eddieknight⁠)
+- [⁠https://twitter.com/the_eddieknight⁠](⁠https://twitter.com/the_eddieknight⁠) 

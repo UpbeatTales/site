@@ -1,10 +1,9 @@
-
----
+ ---
 title: "Blood Moon Bargains"
 linkTitle: "#3 - Blood Moon Bargains"
 date: 2023-06-22
 description: > 
-  This jovial and comedic tale follows a salesman with divine deals.  
+  This jovial and comedic tale follows a salesman with divine deals. This story was originally published in LOLcraft: A Compendium of Eldritch Humor, December 2022. 
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/11XOpQ5iFZ6z47a1KGAUGy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -15,6 +14,8 @@ description: >
 
 This dark comedy flips the tables to put us in the mind of a door-to-door dealer. 
 (Content Warning: Violence, Language)
+
+This story was originally published in LOLcraft: A Compendium of Eldritch Humor, December 2022. 
 
 ---
 
@@ -31,4 +32,4 @@ Eddie Knight has been a technical leader in organizations ranging from financial
 His most recent work is _Nix_, a cybercrime technothriller about a family man tech executive who's life gets turned upside down when his AI and Robotics company draws international attention.
 
 - [⁠https://eddieknight.dev⁠](⁠https://eddieknight.dev⁠)
-- [⁠https://twitter.com/the_eddieknight⁠](⁠https://twitter.com/the_eddieknight⁠)
+- [⁠https://twitter.com/the_eddieknight⁠](⁠https://twitter.com/the_eddieknight⁠) 
