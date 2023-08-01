@@ -1,4 +1,4 @@
- ---
+---
 title: "Blood Moon Bargains"
 linkTitle: "#3 - Blood Moon Bargains"
 date: 2023-06-22
