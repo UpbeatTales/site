@@ -1,7 +1,7 @@
 ---
 title: "Nature Trail"
 linkTitle: "#4 - Nature Trail"
-date: 2023-08-31
+date: 2023-08-01
 description: > 
   JK is a wargame prodigy in his final semester of high school, but one of his final assignments has led him out into the wild— where he finds something unexpected.
 ---
