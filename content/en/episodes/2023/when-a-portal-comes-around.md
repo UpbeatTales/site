@@ -12,7 +12,7 @@ description: >
 
 ## When a Portal Comes Around
 
-This melancholic comedy takes a look at how one engineer ensures he gets properly compensated for his innovation.
+This melancholic comedy takes a look at how one wizard ensures he gets properly compensated for his innovation.
 
 ---
 
