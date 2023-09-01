@@ -6,7 +6,7 @@ description: >
   This melancholic comedy takes a look at how one engineer ensures he gets properly compensated for his innovation.
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/11XOpQ5iFZ6z47a1KGAUGy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Glgy6kJkupLiBn8Rurp4F?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
