@@ -1,7 +1,7 @@
 ---
 title: "The Bookshop + Interview with Rachel Handley"
 linkTitle: "Bonus - The Bookshop + Interview with Rachel Handley"
-date: 2023-09-01
+date: 2023-09-15
 description: > 
   A lightning story about one man's relationship with his workplace. Then, an interview with Rachel Handley, Editor in Chief of Crab Tales Magazine and author of Possible Worlds and Other Stories.
 ---
