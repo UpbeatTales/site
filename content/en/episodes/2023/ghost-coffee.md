@@ -3,7 +3,7 @@ title: "The Ghost in my Coffee Cup"
 linkTitle: "#6 - The Ghost in my Coffee Cup"
 date: 2023-10-01
 description: > 
-  What can a lady really learn from a coffee-obsessed Ghost?
+  What can one woman really learn from a coffee-obsessed Ghost?
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/68xowgVgwEl7PRpDdyTTL8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -11,7 +11,7 @@ description: >
 
 ## The Ghost in my Coffee Cup
 
-What can one lady really learn from a coffee-obsessed Ghost?
+What can one woman really learn from a coffee-obsessed Ghost?
 
 ### Author: Nicole Hebdon
 
