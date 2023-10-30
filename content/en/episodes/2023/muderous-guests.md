@@ -3,7 +3,7 @@ title: "Murderous Guests and Other Signs You're Grieving"
 linkTitle: "#8 - Murderous Guests and Other Signs You're Grieving"
 date: 2023-10-30
 description: > 
-  Grief can be all consuming... but not as much as smoke demons.
+  Grief can be all consuming... but not nearly as much as smoke demons.
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1LIJoITzPLwOfX60w6ipNb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -12,7 +12,7 @@ description: >
 
 ## Murderous Guests and Other Signs You're Grieving
 
-Grief can be all consuming... but not as much as smoke demons.
+Grief can be all consuming... but not nearly as much as smoke demons.
 
 ### Author: Chris Daruns
 
