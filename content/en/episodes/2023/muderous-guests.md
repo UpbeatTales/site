@@ -16,9 +16,11 @@ Grief can be all consuming... but not nearly as much as smoke demons.
 
 ### Author: Chris Daruns
 
-Chris Daruns is a proud husband and father, as well as an author, paramedic, gym rat, and armchair historian.
+Bio: Chris Daruns works as a paramedic in Colorado when he's not writing or goofing off in the mountains. His short story collection, We Were Always Monsters, can be found on Amazon.
 
-- https://twitter.com/TheDangerousApe
+- https://www.facebook.com/cddaruns?mibextid=ZbWKwL
+
+- https://x.com/TheDangerousApe?t=jM-kCw3651Fwvpe-AnmM0A&s=09
 
 ### Narrator: Eddie Knight
 
