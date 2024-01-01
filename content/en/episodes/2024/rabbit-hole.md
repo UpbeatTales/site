@@ -37,10 +37,6 @@ This morning, Sarika and I are speed-walking the track at our kids’ elementary
 
 One minute, I’m getting my step count in, and the next thing I know, big floppy ears sprout out of my head and fluffy fur covers my body. Sarika drops her coffee and screams in shock. Somehow, I’m transforming into a five-foot-four Eastern cottontail bunny. The school recess bell rings and the first-graders squeal with delight and mob me, mistaking me for Chuck E. Cheese. I am horrified and just hope my son Charlie is not one of the kids who sees me. Then, the school custodian calls pest control, so we book it to Sarika’s place.
 
-2 
-
-Rabbit/Chou/ 
-
 “What kind of hell is this?” I sob. My fur feels soft and downy, but my breath comes in ragged gasps. I wonder I’m having a heart attack. 
 
 “Okay. Let’s be logical about this, Cora,” Sarika says, exhaling slowly. “Think through why this is happening. Did you use a new retinol cream last night? Put refined sugar in your latte instead of Stevia?” 
@@ -61,10 +57,6 @@ Sarika is silent, then snaps her fingers. “You know what? I bet it was the mic
 
 We’re in Sarika’s bedroom and I’m trying on disguises instead of semi-formal attire for tonight. I model two trench coats, a puffed-sleeve sweater, and a striped poncho circa 2004. I tug
 
-3 
-
-Rabbit/Chou/ 
-
 on Sarika’s husband’s roomy work boots, as my feet won’t fit into women’s shoes. Sunglasses and a giant hat complete the crazed lady look, but they don’t hide the fluffy fur of my face. “Let’s just say you had a run-in with Rogaine at the medi-spa,” Sarika says, frowning. “The aesthetician got some bottles mixed up?” 
 
 I stare into space, my nose vibrating, whiskers twitching. An intrusive desire for garden-fresh produce fuses with a sudden urge to hump something. I shake my head. I have more important things to worry about. 
@@ -81,10 +73,6 @@ I collapse onto Sarika’s bed and stare at the ceiling. “You’re right,” I
 
 “Did you touch the rabbit? Maybe that did it.”
 
-4 
-
-Rabbit/Chou/ 
-
 “No. I see bunnies in my yard all the time, but I’ve never turned into one. I always enjoy seeing them. It makes me feel like I belong, just another creature of the flora and fauna.” Sarika bites her lip. “I read this article on my feed today. It said modern humans are divorced from nature, but if we remember our roots, we can live the way nature intended. It’s a sign!” 
 
 My nose trembles involuntarily, and I sneeze. I wonder if I could be allergic to humans now. 
@@ -100,10 +88,6 @@ But being a rabbit means I won’t be a mom to Charlie, and that would kill me. 
 “Let’s go to your house and find the rabbit hole,” Sarika says. 
 
 #
-
-5 
-
-Rabbit/Chou/ 
 
 I feel like an oaf standing over the flowerbed as Sarika peers amongst the ferns with the flashlight on her phone. 
 
@@ -125,10 +109,6 @@ I grunt several times and prick my ears forward. She wasn’t lying.
 
 “No,” Nia says. “I’m told it will pass. Tanya said the burrow sensed her longing. She always hated how the leaves clogged up her home.”
 
-6 
-
-Rabbit/Chou/ 
-
 “Holy shit,” Sarika says. “That settles it. I’m hiring a landscaper.” 
 
 I heard Nia speaking, but honestly, I’m distracted by her tiny waist. Her forehead wrinkles have all but disappeared. Maybe I’ll get something out of this, after all. “After our yearning resolves, we return to our previous selves,” Nia says. 
@@ -148,10 +128,6 @@ Honestly, I’m speechless. Who thought anyone would desire my rudderless existe
 “I can’t really afford more than one,” I say. “Kids are expensive in the human world.” Nia raises her eyebrows and I wonder if she’s judging me. Perhaps she doesn’t comprehend the financial burden of travel baseball leagues and student loan debt. “Do your children visit at all?” I ask. “Do you have grandkids yet?” 
 
 “That’s not baked into rabbit culture,” Nia says. “I’m sure I have grandkids somewhere by now. But my job is to raise my kits to maturity and do the best job I can when they’re with me. After that, it’s up to Nature.”
-
-7 
-
-Rabbit/Chou/ 
 
 “That must be sad for you,” I say. 
 
@@ -177,10 +153,6 @@ The woman casts a sidelong glance at us, pauses, then rummages in her snakeskin 
 
 The nerve of some people.
 
-8 
-
-Rabbit/Chou/ 
-
 I’m supposed to meet the secretary, Emily Fitch, before the speech. We find her at the open bar. 
 
 “Emily, let me explain - ” I say, forgetting I’m not me. 
@@ -198,10 +170,6 @@ Emily rubs her eyes and coughs. “Will you still be able to deliver your speech
 “We at End Malodorous Flatulence do not discriminate on the basis of stature or post-cryotherapy malpractice,” Emily says. She leans in closer to us. “On my own self-care journey, I once lost consciousness after a CBD-oil and manuka honey Ayurvedic massage. Apparently, it’s like mixing bleach and ammonia.” 
 
 “I do not understand your cultural rituals. But thank you for your understanding,” Nia says, bowing her head slightly.
-
-9 
-
-Rabbit/Chou/ 
 
 “No problem,” Emily says. “But if you ever need one, I’ve got a great endocrinologist who prescribes my son’s growth hormone. Jack’s shooting for a basketball scholarship to a D-3 university, and he’s only six-five.” 
 
@@ -223,10 +191,6 @@ I set Nia down on the top of the podium and attempt a wide smile. My cheeks don�
 
 I wave my paws and my nose twitches. I lower my ears down around my face, shooting for the cute puppy-dog-bunny vibe.
 
-10 
-
-Rabbit/Chou/ 
-
 A hushed awwwww ripples through the crowd. 
 
 Nia says, “I’d like to thank Annalise Benson for her generosity in funding research to help our kids.” She pushes buttons on the remote control for the slideshow, displaying a montage of the cute children affected by the plague of flatulence. I queue the music and the award ceremony rolls on. 
@@ -242,10 +206,6 @@ A wave of hormones flushes over me. All I want to do is lie down in a patch of g
 “I think that went pretty well,” Sarika says,” considering the circumstances.” “Yes,” I say, looking down at my furry body with affection. 
 
 Nia returns from the bathroom, clutching her abdomen. “I need some grass. Like, now.”
-
-11 
-
-Rabbit/Chou/ 
 
 In the parking lot, Nia and I begin to separate, our molecules sifting out and bouncing back from whence they came. I drive us home, and she hops around on the bucket seat, trying not to poop. 
 
