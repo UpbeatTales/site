@@ -3,7 +3,8 @@ title: "A Rabbit Hole"
 linkTitle: "#10 - A Rabbit Hole"
 date: 2024-01-01
 description: > 
-  The best way for two mothers to find their purpose may be to walk a mile in eachother's shoes.
+  The best way for two mothers to find their purpose may be to walk a mile in eachother’s shoes... or paws.
+
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6HI7JRRlV6FXOl79rZEASi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
