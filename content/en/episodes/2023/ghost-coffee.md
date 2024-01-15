@@ -17,7 +17,7 @@ What can one woman really learn from a coffee-obsessed Ghost?
 
 Nicole Hebdon's fiction has been published in The Kenyon Review, The Saranac Review, The New Ohio Review, The Antigonish Review, Joyland, Carve, and F(r)iction among other places. She received her MFA from SUNY Stony Brook, and her thesis was a runner-up in the 2017 Serendipity’s YA Discovery Contest. Since then, her short stories have been finalists or runner-ups in several contests including the 2022 St. Lawrence Book Award, and Chestnut Review’s 2021 novella contest.
 
-- https://twitter.com/NikoleMarieH
+- [X/Twitter](//https://twitter.com/NikoleMarieH)
 
 ### Narrator: Hannah Knight
 

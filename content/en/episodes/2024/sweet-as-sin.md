@@ -4,7 +4,6 @@ linkTitle: "#11 - As Sweet as Sin"
 date: 2024-01-15
 description: > 
   In a world of sweets, this investigator finds that some things are sweeter.
-
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/21rHRoF9hHstMqjimaUHzP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -19,12 +18,15 @@ In a world of sweets, this investigator finds that some things are sweeter.
 
 About the Author: Kai Delmas loves creating worlds and magic systems. He reads slush for breakfast, lunch, and dinner and writes some drabbles in between.
 
-- <a href="https://twitter.com/KaiDelmas">Twitter / X</a>
-- <a href="⁠https://patreon.com/kaidelmas">Patreon</a>
+- [Patreon](//https://patreon.com/kaidelmas⁠)
+- [X/Twitter](//⁠https://twitter.com/KaiDelmas)
 
 ### Narrator: Eddie Knight
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
+
+- [Website](//⁠https://eddieknight.dev⁠)
+- [X/Twitter](//⁠https://twitter.com/the_eddieknight⁠) 
 
 ----
 
