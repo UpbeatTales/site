@@ -19,7 +19,7 @@ At the end of the day, even thieves and grave robbers gotta get paid.
 
 After traveling around the world, Alex Evans has settled down to juggle an absorbing job, a lively family and the craft of writing. She loves fantasy, folklore, history and hates clichés.
 
-- [https://thousandtales.substack.com](//https://thousandtales.substack.com)
+- [Substack](//https://thousandtales.substack.com)
 
 ### Narrator: Hannah Knight
 
