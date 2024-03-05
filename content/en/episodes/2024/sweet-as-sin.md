@@ -19,14 +19,14 @@ In a world of sweets, this investigator finds that some things are sweeter.
 Kai Delmas loves creating worlds and magic systems. He reads slush for breakfast, lunch, and dinner and writes some drabbles in between.
 
 - [Patreon](//patreon.com/kaidelmas⁠)
-- [X/Twitter](//⁠https://twitter.com/KaiDelmas)
+- [X/Twitter](//twitter.com/KaiDelmas)
 
 ### Narrator: Eddie Knight
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
 
-- [Website](//⁠https://eddieknight.dev⁠)
-- [X/Twitter](//⁠https://twitter.com/the_eddieknight⁠) 
+- [Website](//eddieknight.dev⁠)
+- [X/Twitter](//twitter.com/the_eddieknight⁠) 
 
 ----
 

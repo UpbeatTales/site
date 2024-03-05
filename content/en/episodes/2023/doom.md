@@ -28,5 +28,5 @@ Eddie Knight has been a technical leader in organizations ranging from financial
 
 His most recent work is _Nix_, a cybercrime technothriller about a family man tech executive who's life gets turned upside down when his AI and Robotics company draws international attention.
 
-- [Website](//⁠https://eddieknight.dev⁠)
-- [X/Twitter](//⁠https://twitter.com/the_eddieknight⁠) 
+- [Website](//eddieknight.dev⁠)
+- [X/Twitter](//twitter.com/the_eddieknight⁠) 

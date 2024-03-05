@@ -20,7 +20,7 @@ The best way for two mothers to find their purpose may be to walk a mile in each
 Vivian Chou is a science advocate by day and a science fiction/slipstream writer by night. Her work has appeared in Fusion Fragment, riddlebird, and Heartlines Spec, among others. She prefers to fuel her writing with naps, exercise, and dystopian dread, but usually manages with black coffee and chocolate.
 
 - [Author's Website](//www.vivianchouwriter.com)
-- [Twitter](//⁠https://twitter.com/vivianhchou)
+- [Twitter](//twitter.com/vivianhchou)
 
 ### Narrator: Hannah Knight
 

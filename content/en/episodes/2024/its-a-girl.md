@@ -23,8 +23,8 @@ Stetson Ray lives in a heavily fortified compound near Sugar Creek, Tennessee.
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
 
-- [Website](//⁠https://eddieknight.dev⁠)
-- [X/Twitter](//⁠https://twitter.com/the_eddieknight⁠) 
+- [Website](//eddieknight.dev⁠)
+- [X/Twitter](//twitter.com/the_eddieknight⁠) 
 
 ----
 

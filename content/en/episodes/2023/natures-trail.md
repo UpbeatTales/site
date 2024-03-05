@@ -28,5 +28,5 @@ His most recent work is _Nix_, a cybercrime technothriller about a family man te
 
 Now available on [Amazon](https://www.amazon.com/Nix-Records-Mechanocene-Eddie-Knight-ebook/dp/B0C9XJDFGY/ref=sr_1_1?crid=32S8QDNYZX98E) and [Audible](https://www.audible.com/pd/Nix-Audiobook/B0CC75QH7T)!
 
-- [Website](//⁠https://eddieknight.dev⁠)
-- [X/Twitter](//⁠https://twitter.com/the_eddieknight⁠) 
+- [Website](//eddieknight.dev⁠)
+- [X/Twitter](//twitter.com/the_eddieknight⁠) 
