@@ -18,8 +18,8 @@ A soldier visits graves of the fallen to pay his respects.
 
 An avid explorer, author, and alien enthusiast, M.V. Viltch is a military academy graduate and ex Naval Reservist currently working in the maritime field. No experience with aliens just yet, despite best efforts.
 
-- [Author's Website](//https://mvviltch.com)
-- [X/Twitter](//https://twitter.com/mvviltch)
+- [Author's Website](//mvviltch.com)
+- [X/Twitter](//twitter.com/mvviltch)
 
 ### Narrator: Eddie Knight
 

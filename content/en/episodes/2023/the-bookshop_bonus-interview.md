@@ -22,7 +22,7 @@ A lightning story about one man's relationship with his workplace. Then, an inte
 Rachel Handley is a science fiction writer, poet, and academic philosopher based in Dublin, Ireland. Their poetry and fiction has been published internationally in venues such as 365 Tomorrows, Arlen House, and Poetry Ireland among others. Their debut philosophical short story collection, Possible Worlds and Other Stories, was published by Ellipsis Imprints in December 2022. Two of the stories from her collection, The Sound, and The Man of the Sand, have been nominated for awards. The Sound was long-listed for The British Science Fiction Association's Best Short Fiction Award, and The Man of The Sand was nominated for The Pushcart Prize. Rachel is Editor-in-Chief of Crab Tales Magazine.
 
 
-- ⁠[LinkTree](//https://linktr.ee/_rachelhandley)
+- ⁠[LinkTree](//linktr.ee/_rachelhandley)
 
 ### Narrator: Eddie Knight
 

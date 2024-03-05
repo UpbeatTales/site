@@ -18,7 +18,7 @@ A dragon, a knight and a maiden: a tale as old as time... or so you thought.
 
 Kai Delmas loves creating worlds and magic systems. He reads slush for breakfast, lunch, and dinner and writes some drabbles in between.
 
-- [Patreon](//https://patreon.com/kaidelmas⁠)
+- [Patreon](//patreon.com/kaidelmas⁠)
 - [X/Twitter](//⁠https://twitter.com/KaiDelmas)
 
 ### Narrator: Hannah Knight
