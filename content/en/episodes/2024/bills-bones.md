@@ -1,6 +1,6 @@
 ---
 title: "Bill's Bones"
-linkTitle: "#17 - Bill's Bones"
+linkTitle: "#16 - Bill's Bones"
 date: 2024-05-01
 description: > 
   Recently sacked and single, Walt is about to learn what it truly means to be cursed.
@@ -21,7 +21,7 @@ Mike Jack Stoumbos lives with his wife, puppy, and parrot, and enjoys finding ho
 - [Website](https://⁠mikejackstoumbos.com)
 - [Bluesky](⁠⁠https://www.amazon.com/Murderbugs-Arthropod-Mike-Jack-Stoumbos-ebook/dp/B0D2RQPYGH⁠)
 
-### About the Narrator:
+### About the Narrator
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
 
@@ -31,7 +31,7 @@ To many, falling asleep behind the wheel of a moving vehicle is one of the scari
 
 Fortunately, when it comes to slow-moving heavy machinery, driver error poses little human danger. Civilians can casually stroll out of the way, and the operator is safely preserved in a garish yellow cage. Anything rooted to the ground, however, including the ground itself, is fair game for a bulldozer, who makes no judgments or discriminations about what it plows through. In Walt’s case, by the time the driver was woken and engine cut, the highly valued putting grounds of the Stratford Sports Club had one less hill.
 
-But Walt insisted. On a heap of upturned up dirt lay an unburied box, cracked under pressure. Though only a few inches of light made their way in, Walt was certain he saw the telltale grooves of a skull.
+On a heap of upturned up dirt lay an unburied box, cracked under pressure. Though only a few inches of light made their way in, Walt was certain he saw the telltale grooves of a skull.
 
 “Don’t leave us in suspense,” prompted Des, later that evening. “What happened next?”
 
