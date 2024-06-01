@@ -1,7 +1,7 @@
 ---
 title: "The Movers"
 linkTitle: "#18 - The Movers"
-date: 2024-05-01
+date: 2024-06-01
 description: > 
   Cutting edge technology isn't always ready for every use case.
 ---
