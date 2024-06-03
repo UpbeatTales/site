@@ -19,8 +19,8 @@ Cutting edge technology isn't always ready for every use case.
 Michael Allen Rose is an award-winning author, musician, and performance artist based in Chicagoland. His books include JURASSICHRIST and THE LAST 5 MINUTES OF THE HUMAN RACE among others. He enjoys tea and cats.
 
 
-- [Website](⁠⁠http://www.michaelallenrose.com)
-- [Linktree](⁠http://linktr.ee/michaelallenrose)
+- [Website](⁠⁠https://www.michaelallenrose.com)
+- [Linktree](⁠https://linktr.ee/michaelallenrose)
 
 ### About the Narrator
 
