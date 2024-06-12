@@ -25,14 +25,9 @@ Rick Danforth is a BSFA award shortlisted author from Yorkshire, England, where 
 
 His short fiction can be found in Hexagon, Translunar Traveler’s Lounge, and many other places.
 
-- ⁠[Author's Website](//rickdanforth.com⁠)
-- [Twitter](//twitter.com/Rick_and_Write⁠)
+- ⁠[Author's Website](https://rickdanforth.com⁠)
+- [Twitter](https://twitter.com/Rick_and_Write⁠)
 
 ### Narrator: Eddie Knight
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
-
-His most recent work is _Nix_, a cybercrime technothriller about a family man tech executive who's life gets turned upside down when his AI and Robotics company draws international attention.
-
-- [⁠https://eddieknight.dev⁠](⁠https://eddieknight.dev⁠)
-- [⁠https://twitter.com/the_eddieknight⁠](⁠https://twitter.com/the_eddieknight⁠) 

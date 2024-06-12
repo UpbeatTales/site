@@ -7,21 +7,20 @@ description: >
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/43Vqwg12a0TluuxYJ5wosZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ---
 
 ## The Movers
 
 Cutting edge technology isn't always ready for every use case.
 
-### About the Author
+### Author: Michael Allen Rose
 
 Michael Allen Rose is an award-winning author, musician, and performance artist based in Chicagoland. His books include JURASSICHRIST and THE LAST 5 MINUTES OF THE HUMAN RACE among others. He enjoys tea and cats.
 
-- [Website](⁠⁠https://michaelallenrose.com)
-- [Linktree](⁠https://linktr.ee/michaelallenrose)
+- [Website](⁠//michaelallenrose.com)
+- [Linktree](⁠//linktr.ee/michaelallenrose)
 
-### About the Narrator
+### Narrator: Eddie Knight
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
 

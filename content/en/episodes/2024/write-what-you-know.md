@@ -14,14 +14,14 @@ description: >
 
 Sometimes you don't know what you know until you see it in writing.
 
-### About the Author
+### Author: C. J. Peterson
 
 C. J. Peterson is a writer of science articles and science fiction who is kept as the pet of a large gray cat.
 
 - [Website](https://cjpetersonwrites.com)
 - [Twitter](https://twitter.com/authoress_cj)
 
-### About the Narrator
+### Narrator: Hannah Knight
 
 Hannah Knight is an artist, cat lover, and mother to a rambunctious toddler.
 

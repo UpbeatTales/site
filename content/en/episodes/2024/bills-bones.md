@@ -14,14 +14,14 @@ description: >
 
 Recently sacked and single, Walt is about to learn what it truly means to be cursed.
 
-### About the Author
+### Author: Mike Jack Stoumbos
 
 Mike Jack Stoumbos lives with his wife, puppy, and parrot, and enjoys finding hope and humor in speculative fiction. His stories have appeared in collections from Writers of the Future, Zombies Need Brains, WordFire Press, and others.
 
-- [Website](https://⁠mikejackstoumbos.com)
-- [Bluesky](⁠⁠https://www.amazon.com/Murderbugs-Arthropod-Mike-Jack-Stoumbos-ebook/dp/B0D2RQPYGH⁠)
+- [Website](https://mikejackstoumbos.com)
+- [Amazon](https://⁠amazon.com/Murderbugs-Arthropod-Mike-Jack-Stoumbos-ebook/dp/B0D2RQPYGH⁠)
 
-### About the Narrator
+### Narrator: Eddie Knight
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
 

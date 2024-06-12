@@ -18,15 +18,12 @@ Grief can be all consuming... but not nearly as much as smoke demons.
 
 Bio: Chris Daruns works as a paramedic in Colorado when he's not writing or goofing off in the mountains. His short story collection, We Were Always Monsters, can be found on Amazon.
 
-- [Facebook](//www.facebook.com/cddaruns?mibextid=ZbWKwL)
+- [Facebook](https://facebook.com/cddaruns?mibextid=ZbWKwL)
 - [X/Twitter](https://x.com/TheDangerousApe?t=jM-kCw3651Fwvpe-AnmM0A&s=09)
 
 ### Narrator: Eddie Knight
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
-
-- [Website](//eddieknight.dev⁠)
-- [X/Twitter](//twitter.com/the_eddieknight⁠) 
 
 ----
 

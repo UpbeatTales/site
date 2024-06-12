@@ -23,10 +23,3 @@ Brian chooses to not have a social media presence, and instead requests you foll
 ### Narrator: Eddie Knight
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
-
-His most recent work is _Nix_, a cybercrime technothriller about a family man tech executive who's life gets turned upside down when his AI and Robotics company draws international attention.
-
-Now available on [Amazon](https://www.amazon.com/Nix-Records-Mechanocene-Eddie-Knight-ebook/dp/B0C9XJDFGY/ref=sr_1_1?crid=32S8QDNYZX98E) and [Audible](https://www.audible.com/pd/Nix-Audiobook/B0CC75QH7T)!
-
-- [Website](//eddieknight.dev⁠)
-- [X/Twitter](//twitter.com/the_eddieknight⁠) 

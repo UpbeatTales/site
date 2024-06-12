@@ -1,5 +1,4 @@
 languageCode = 'en-us'
-baseURL = "https://upbeattales.com/"
 title = "Upbeat Tales"
 
 enableRobotsTXT = true

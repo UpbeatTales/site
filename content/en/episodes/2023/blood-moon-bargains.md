@@ -23,13 +23,8 @@ This story was originally published in LOLcraft: A Compendium of Eldritch Humor,
 
 Kyer Kneifel is a writer, engineer, and full-time nerd. He enjoys fantasy, sci-fi and everything in between. He has a love for RPGs such as Dungeons & Dragons and is a huge video game player, with experience in just about every type of game there is. He also has a knack for quoting almost every movie or show he’s seen. With all those factors combined, his writing has a wide range of genres it dips into and he always enjoys a good writing challenge.
 
-- ⁠[X/Twitter](//twitter.com/Cipher_Write)
+- ⁠[X/Twitter](https://twitter.com/Cipher_Write)
 
 ### Narrator: Eddie Knight
 
 Eddie Knight has been a technical leader in organizations ranging from financial services to software security, enabling him to gain the wealth of experience and insight that he brings as a speaker, author, and strategist.
-
-His most recent work is _Nix_, a cybercrime technothriller about a family man tech executive who's life gets turned upside down when his AI and Robotics company draws international attention.
-
-- [Website](//eddieknight.dev⁠)
-- [X/Twitter](//twitter.com/the_eddieknight⁠) 
