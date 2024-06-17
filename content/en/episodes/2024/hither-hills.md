@@ -6,7 +6,7 @@ description: >
   An unlikely romance in the summer of '77.
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/4TJtCRn0R2lWRKHo3Fd0WB?utm_source=generator" width="100%" height="242" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4HLVhtELr10Im3G0quHQ6l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
