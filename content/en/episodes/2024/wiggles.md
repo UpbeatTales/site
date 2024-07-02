@@ -3,7 +3,7 @@ title: "How Wiggles Saved the World"
 linkTitle: "#20 - How Wiggles Saved the World"
 date: 2024-07-01
 description: > 
-Sometimes the true value of a pet isn't always readily apparent.
+  Sometimes the true value of a pet isn't always readily apparent.
 
 ---
 
