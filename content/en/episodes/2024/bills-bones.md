@@ -19,7 +19,7 @@ Recently sacked and single, Walt is about to learn what it truly means to be cur
 Mike Jack Stoumbos lives with his wife, puppy, and parrot, and enjoys finding hope and humor in speculative fiction. His stories have appeared in collections from Writers of the Future, Zombies Need Brains, WordFire Press, and others.
 
 - [Website](https://mikejackstoumbos.com)
-- [Amazon](https://⁠amazon.com/Murderbugs-Arthropod-Mike-Jack-Stoumbos-ebook/dp/B0D2RQPYGH⁠)
+- [Amazon](https://www.amazon.com/Murderbugs-Arthropod-Anthology-Unhelpful-Encyclopedia/dp/B0D1741QS3)
 
 ### Narrator: Eddie Knight
 
